@@ -1,0 +1,10 @@
+{
+    "domain": "ephember",
+    "name": "EPH Controls",
+    "version": "1.1.2",
+    "documentation": "https://www.home-assistant.io/integrations/ephember",
+    "requirements": ["pyephember==0.4.0"],
+    "codeowners": ["@ttroy50"],
+    "iot_class": "local_polling",
+    "loggers": ["pyephember"]
+  }
